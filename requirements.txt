@@ -1,0 +1,8 @@
+matplotlib
+streamlit
+numpy
+pandas
+Pillow
+xlrd
+streamlit-elements==0.1.*
+plotly
